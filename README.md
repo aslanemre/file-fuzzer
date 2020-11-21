@@ -1,2 +1,2 @@
-# file-explorer
+# File Explorer
 File explorer with Python (requests).
