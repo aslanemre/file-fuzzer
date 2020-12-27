@@ -1,2 +1,2 @@
 # File Explorer
-File explorer with Python (requests).
+File explorer(fuzzer) with Python (requests).
